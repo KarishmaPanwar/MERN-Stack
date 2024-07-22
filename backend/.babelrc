@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "env",
+        "stage-0" //it included all the latest changes to the language, 
+                  //so if you have any doubt which stage to put, its safe to use stage-0
+    ]
+}
